@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ÖSYM Çıkmış Soru İndir</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4772809461009096/3145321963</string>
+    <string name="app_name_tr">ÖSYM Çıkmış Soru İndir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exams_all">ÖSYM Çıkmış Sorular</string>
+    <string name="ales_all">ALES Çıkmış Sorular</string>
+    <string name="yds_all">YDS-KPDS Çıkmış Sorular</string>
+    <string name="osys_all">ÖSYS Çıkmış Sorular</string>
+    <string name="ales">ALES</string>
+    <string name="osys">OSYS</string>
+    <string name="kpss">KPSS</string>
+    <string name="yds">YDS-KPDS</string>
+    <string name="kpds">KPDS</string>
+    <string name="uds">ÜDS</string>
+    <string name="tus">TUS</string>
+    <string name="title_activity_ales">AlesActivity</string>
+    <string name="file">Dosyalar SD kart altında osym isimli klasöre indiriliyor.</string>
+    <string name="already_downloaded">Dosyayı zaten indirmişsiniz. Dosyada bir sorun varsa önce siliniz daha sonra tekrar indirmeyi deneyiniz.</string>
+    <string name="starting_download">İndirme Başlatılıyor.</string>
+    <string name="downloading">Dosya İndiriliyor.</string>
+    <string name="please_wait">Lütfen bekleyiniz.</string>
+    <string name="no_connection">İnternete bağlı değilsiniz. Önce lütfen internete bağlanınız.</string>
+    <string name="download_finished">İndirme Sona Erdi.</string>
+    <string name="error_file_not_found">Hata oluştu! Dosya bulunamadı!</string>
+    
+    <string name="ales_2013_sonbahar">2013-ALES Sonbahar Dönemi</string>
+    <string name="ales_2013_ilkbahar">2013-ALES İlkbahar Dönemi</string>
+    <string name="ales_2012_sonbahar">2012-ALES Sonbahar Dönemi</string>
+    <string name="ales_2012_ilkbahar">2012-ALES İlkbahar Dönemi</string>
+    <string name="ales_2011_sonbahar">2011-ALES Sonbahar Dönemi</string>
+    <string name="ales_2011_ilkbahar">2011-ALES İlkbahar Dönemi</string>
+    <string name="ales_2010_sonbahar">2010-ALES Sonbahar Dönemi</string>
+    <string name="ales_2010_ilkbahar">2010-ALES İlkbahar Dönemi</string>
+    <string name="ales_2009_sonbahar">2009-ALES Sonbahar Dönemi</string>
+    <string name="ales_2009_ilkbahar">2009-ALES İlkbahar Dönemi</string>
+    <string name="ales_2008_sonbahar">2008-ALES Sonbahar Dönemi</string>
+    <string name="ales_2008_ilkbahar">2008-ALES İlkbahar Dönemi</string>
+    <string name="ales_2007_sonbahar">2007-ALES Sonbahar Dönemi</string>
+    <string name="ales_2007_ilkbahar">2007-ALES İlkbahar Dönemi</string>
+    <string name="ales_2006_sonbahar">2006-ALES Sonbahar Dönemi</string>
+    <string name="ales_2006_ilkbahar">2006-ALES İlkbahar Dönemi</string>
+    <string name="yds_2013_sonbahar">2013-YDS Sonbahar Dönemi</string>
+    <string name="yds_2013_ilkbahar">2013-YDS İlkbahar Dönemi</string>
+    <string name="kpds_2012_sonbahar">2012-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2012_ilkbahar">2012-KPDS İlkbahar Dönemi</string>
+    <string name="kpds_2011_sonbahar">2011-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2011_ilkbahar">2011-KPDS İlkbahar Dönemi</string>
+    <string name="kpds_2010_sonbahar">2010-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2010_ilkbahar">2010-KPDS İlkbahar Dönemi</string>
+    <string name="kpds_2009_sonbahar">2009-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2009_ilkbahar">2009-KPDS İlkbahar Dönemi</string>
+    <string name="kpds_2008_sonbahar">2008-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2008_ilkbahar">2008-KPDS İlkbahar Dönemi</string>
+    <string name="kpds_2007_sonbahar">2007-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2007_ilkbahar">2007-KPDS İlkbahar Dönemi</string>
+    <string name="kpds_2006_sonbahar">2006-KPDS Sonbahar Dönemi</string>
+    <string name="kpds_2006_ilkbahar">2006-KPDS İlkbahar Dönemi</string>
+    <string name="osys_2013_lys">2013 LYS</string>
+    <string name="osys_2013_ygs">2013 YGS</string>
+    <string name="osys_2012_lys">2012 LYS</string>
+    <string name="osys_2012_ygs">2012 YGS</string>
+    <string name="osys_2011_lys">2011 LYS</string>
+    <string name="osys_2011_ygs">2011 YGS</string>
+    <string name="osys_2010_lys">2010 LYS</string>
+    <string name="osys_2010_ygs">2010 YGS</string>
+    <string name="osys_2009_oss">2009 ÖSS</string>
+    <string name="osys_2008_oss">2008 ÖSS</string>
+    <string name="osys_2007_oss">2007-ÖSS</string>
+    <string name="osys_2006_oss">2006-ÖSS</string>
+    <string name="title_activity_yds">YDSActivity</string>
+    <string name="open_after_download">Dosya indirilince otomatik açılsın.</string>
+    <string name="open_directory">İndirilen Klasörü Aç.</string>
+    <string name="title_activity_osys">OsysActivity</string>
+    
+    <string name="matematik">Matematik Testi</string>
+    <string name="geometri">Geometri Testi</string>
+    <string name="fizik">Fizik Testi</string>
+    <string name="kimya">Kimya Testi</string>
+    <string name="biyoloji">Biyoloji Testi</string>
+    <string name="tdk">Türk Dili ve Edebiyatı Testi</string>
+    <string name="cografya">Coğrafya-1 Testi</string>
+    <string name="tarih">Tarih Testi</string>
+    <string name="cografya2">Coğrafya-2 Testi</string>
+    <string name="felsefe">Felsefe Testi</string>
+    <string name="almanca">Almanya Yabancı Dil Testi</string>
+    <string name="fransizca">Fransızca Yabancı Dil Testi</string>
+    <string name="ingilizce">İngilizce Yabancı Dil Testi</string>
+    
+    <string name="turkce1">Türkçe-1 Testi</string>
+    <string name="sos1">Sosyal Bilimler-1 Testi</string>
+    <string name="matematik1">Matematik-1 Testi</string>
+    <string name="fen1">Fen Bilimleri-1 Testi</string>
+    <string name="turkce2">Edebiyat Sosyal Bilimler Testi</string>
+    <string name="sos2">Sosyal Bilimler-2 Testi</string>
+    <string name="matematik2">Matematik-2 Testi</string>
+    <string name="fen2">Fen Bilimleri-2 Testi</string>
+    <string name="cevap">Cevap Anahtarı</string>
+    
+    <string name="turkce">Türkçe Testi</string>
+    <string name="sos">Sosyal Bilimler Testi</string>
+    <string name="mat">Temel Matematik Testi</string>
+    <string name="fen">Fen Bilimleri Testi</string>
+    
+    
+    
+    
+    
+    
+
+</resources>
